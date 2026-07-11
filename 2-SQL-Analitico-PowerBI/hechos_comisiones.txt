@@ -1,6 +1,0 @@
-id_operacion,id_asesor,monto_venta,canal_ingreso,codigo_error
-OP-701,ASE-10,120000,Digital,0
-OP-702,ASE-20,45000,Ventanilla,0
-OP-703,ASE-10,120000,Digital,1
-OP-704,ASE-30,85000,App_Movil,0
-OP-705,ASE-99,350000,Web_Externo,1
