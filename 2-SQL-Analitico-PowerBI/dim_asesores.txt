@@ -1,4 +1,0 @@
-cod_asesor,nombre_completo,tipo_contrato
-ASE-10,Roberto Flores,Planilla
-ASE-20,Diana Prince,Externo
-ASE-30,Bruce Wayne,Planilla
